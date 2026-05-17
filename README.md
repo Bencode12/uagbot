@@ -19,6 +19,7 @@ A comprehensive Discord bot for managing the DemocracyCraft server with employee
 - **`/structure`** - View organizational hierarchy
 - **`/realty`** - Check plot ownership and real estate information
 - **`/econ-report`** - AI-powered economic analysis reports
+- **`/sheets`** - View live Google Sheets accounting data
 
 ### 💬 Social Features
 - **`/private-chat`** - Create secure one-on-one private channels
